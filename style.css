@@ -4,7 +4,8 @@
 }
 
 body{
-  background-color: #222
+  background-color: #222;
+  overflow: hidden;
 }
 
 .imgCon{
@@ -56,6 +57,18 @@ body{
 
 #noTake:hover{
   background-color: rgb(68, 68, 68);
+}
+
+.rrCon{
+  position: absolute;
+  bottom: -10px;
+  left: 10px;
+}
+
+#RR{
+  font-family: FredokaOne;
+  font-size: 24px;
+  color: #f0f2ef;
 }
 
 .mobileCopy p {
