@@ -19,8 +19,8 @@ body{
 }
 
 #pic{
-  width: 200px;
-  height: 300px;
+  width: 12.5em;
+  height: 18.75em;
   border-radius: 12px;
 }
 
@@ -28,31 +28,31 @@ body{
   font-family: FredokaOne;
   display: flex;
   justify-content: center;
-  font-size: 26px;
+  font-size: 1.625em;
   color: #9c86dc
 }
 
 #noTake{
   font-family: FredokaOne;
-  font-size: 16px;
+  font-size: 1em;
   color: #a2e599;
   background-color: rgb(39, 39, 39);
-  padding: 15px 24px;
-  margin-right: 12px;
+  padding: 0.9375em 1.5em;
+  margin-right: 0.75em;
   border: none;
-  border-radius: 14px;
+  border-radius: 0.875em;
 }
 
 
 #Take{
   font-family: FredokaOne;
-  font-size: 16px;
+  font-size: 1em;
   color: #f1818b;
   background-color: rgb(39, 39, 39);
-  padding: 15px 24px;
-  margin-left: 12px;
+  padding: 0.9375em 1.5em;
+  margin-left: 0.75em;
   border: none;
-  border-radius: 14px;
+  border-radius: 0.875em;
 }
 
 #noTake:hover{
@@ -65,18 +65,18 @@ body{
 
 .rrCon{
   position: absolute;
-  bottom: -10px;
-  left: 10px;
+  bottom: -0.625em;
+  left: 0.625em;
 }
 
 #RR{
   font-family: FredokaOne;
-  font-size: 20px;
+  font-size: 1.25em;
   color: #f0f2ef;
 }
 
 .mobileCopy p {
   position: relative;
   text-align: right;
-  top: 240px;
+  top: 15em;
 }
